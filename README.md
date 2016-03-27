@@ -8,3 +8,6 @@ Using a ftdi controller to connect the serial arduino to computer usb through a 
 # Windows controller application
 
 You can bind a keyboard arduino key in any keyboard key with this software. Must be open if you want to use the keyboard.
+
+Compiled .exe version: https://github.com/rokimoki/Arduino-Keyboard/tree/master/OverflowKeyboard/OverflowKeyboard/bin/Release
+Tested and working in Windows 10
