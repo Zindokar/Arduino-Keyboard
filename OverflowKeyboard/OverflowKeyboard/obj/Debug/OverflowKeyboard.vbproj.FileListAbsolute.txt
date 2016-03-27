@@ -1,0 +1,11 @@
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\bin\Debug\OverflowKeyboard.exe.config
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\bin\Debug\OverflowKeyboard.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\bin\Debug\OverflowKeyboard.pdb
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\bin\Debug\OverflowKeyboard.xml
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\obj\Debug\OverflowKeyboard.vbprojResolveAssemblyReference.cache
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\obj\Debug\OverflowKeyboard.Form1.resources
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\obj\Debug\OverflowKeyboard.Resources.resources
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\obj\Debug\OverflowKeyboard.vbproj.GenerateResource.Cache
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\obj\Debug\OverflowKeyboard.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\obj\Debug\OverflowKeyboard.xml
+c:\users\alejandro\documents\visual studio 2015\Projects\OverflowKeyboard\OverflowKeyboard\obj\Debug\OverflowKeyboard.pdb
