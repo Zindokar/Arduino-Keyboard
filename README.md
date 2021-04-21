@@ -11,3 +11,5 @@ You can bind a keyboard arduino key in any keyboard key with this software. Must
 
 Compiled .exe version: https://github.com/rokimoki/Arduino-Keyboard/tree/master/OverflowKeyboard/OverflowKeyboard/bin/Release
 Tested and working in Windows 10
+
+### DEPRECATED PROJECT
